@@ -46,7 +46,7 @@ Here are some ideas to get you started:
       <img src="https://camo.githubusercontent.com/e5e1b0f6385294f384736687f3e6083f5579cf8e583460fe3c303ce8b5b1e3c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" style="max-width: 100%;">
       <img src="https://camo.githubusercontent.com/d9b95f3bf5e64e789894d5fac1e42d17c91b36858c11f5fb826f961963b8e018/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652d2532334630303030302e7376673f7374796c653d666c61742d737175617265266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Oracle-%23F00000.svg?style=flat-square&amp;logo=oracle&amp;logoColor=white" style="max-width: 100%;">
       
-    <a href = "https://github.com/onnx" rel="nofollow"><img src ="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX" data-canonical-src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX" style="max-width: 100%;"></a>
+    <a href = "https://github.com/onnx" rel="nofollow"><img src ="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX" style="max-width: 100%;"></a>
   </p>
    
 </div>
