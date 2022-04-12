@@ -52,7 +52,7 @@ Here are some ideas to get you started:
         <li>
             <strong>Dankuko Hello Lab Project ---------- Backend, Database, Business feasibility, progress planning </strong>
             <br>
-            <em>DanKuKo '경소톤' 프로젝트</em>
+            <em>DanKuKo '경소톤' Project</em>
             <br>
             <em>NodeJS, NHN Cloud
             <br>
