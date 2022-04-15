@@ -26,7 +26,7 @@ Here are some ideas to get you started:
       <em>2022.01 ~ NOW</em>
     </li>
     <li>
-        <strong>HELLO TEAM(FOUNDED TEAM) ---------- TEAM LEADER( </strong>
+        <strong>HELLO TEAM(FOUNDED TEAM) ---------- TEAM LEADER(CEO) </strong>
         <br>
         <em>2022.03 ~ NOW</em>
     </li>
