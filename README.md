@@ -23,6 +23,8 @@ Here are some ideas to get you started:
     <li>
       <strong>NEOWINE (SoftWare Researcher) ---------- industrial technical personnel</strong>
       <br>
+      <em> Do : NPU, PIM, ONNX... Embedded Develop </em>
+      <br>
       <em>2022.01 ~ NOW</em>
     </li>
     <li>
