@@ -67,7 +67,11 @@ Here are some ideas to get you started:
             <br>
             <em>Java Spring, JPA
             <br>
-            <em>2022.02 ~ NOW</em>
+            <em>2022.02 ~ 2022.09</em>
+            <br>
+            <em> Release Service</em>
+            <br>
+            
         </li>
     </ul>
 </div>
