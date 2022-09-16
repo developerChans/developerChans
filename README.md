@@ -71,7 +71,6 @@ Here are some ideas to get you started:
             <br>
             <em> Release Service</em>
             <br>
-            
         </li>
     </ul>
 </div>
