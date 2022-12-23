@@ -97,7 +97,7 @@ Here are some ideas to get you started:
       <a href="https://aws.amazon.com/ko/" rel="nofollow"><img src="https://camo.githubusercontent.com/dc7471259d8b038b5b1e9ad8867a467f3328128c12aedc72c305952e1801464b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e204157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d416d617a6f6e415753266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=AmazonAWS&amp;logoColor=white" style="max-width: 100%;"></a>    
       <br>
       <strong>Software Embedded:  </strong>
-      <img src="https://img.shields.io/badge/Xilinx-E01F27?style=flat-square&amp;logo=Xilinx FPGA&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Xilinx-E01F27?style=flat-square&amp;logo=Xilinx&logoColor=white"/>
       <br>
       <strong>Others... </strong>
       <img src="https://camo.githubusercontent.com/91271f210478908838baa7463daa6af4c78827b2d4d0a1ddfcdaf254b41edf87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white" style="max-width: 100%;">
