@@ -67,11 +67,49 @@ Here are some ideas to get you started:
             <br>
             <em>Java Spring, JPA
             <br>
-            <em>2022.02 ~ 2022.09</em>
+            <em>2022.02 ~ 2022.12</em>
             <br>
             <em> Release Service</em>
             <br>
+            <em> https://www.dku54play.site </em>
+            <br>
         </li>
+        <li>
+            <strong>NPU and PIM interlock ONNX Framework C stack Develop ---------- reasearcher </strong>
+            <br>
+            <em>Neural Processing Unit, Process In Memory Software Develop</em>
+            <br>
+            <em>Xilinx Vitis, C99</em>
+            <br>
+            <em>2022.01 ~ NOW</em>
+            <br>
+            <em> https://www.dku54play.site </em>
+            <br>
+        </li>        
+        <li>
+            <strong>Dankook Univ offical student homepage Maintenance ---------- General </strong>
+            <br>
+            <em>DKU 54th PLAY Student Council </em>
+            <br>
+            <em>Java Spring, JPA
+            <br>
+            <em>2023.01 ~ NOW</em>
+            <br>
+            <em> https://www.dku54play.site </em>
+            <br>
+        </li>            
+        <li>
+            <strong>Dankook Univ offical student Study Group D-Coding ---------- General </strong>
+            <br>
+            <em>DKU 1th D-coding Study Group General </em>
+            <br>
+            <em>Java Spring, JPA</em>
+            <br>
+            <em>2023.01 ~ NOW</em>
+            <br>
+            <em> Spring JPA, Algorithm, React Library Study...</em>
+            <br>
+        </li>                   
     </ul>
 </div>
 
