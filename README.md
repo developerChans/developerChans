@@ -99,7 +99,7 @@ Here are some ideas to get you started:
             <br>
         </li>
         <li>
-            <strong>NPU and PIM interlock ONNX Framework C stack Develop ---------- reasearcher </strong>
+            <strong>NPU and PIM interlock ONNX Framework C stack Develop ---------- Researcher </strong>
             <br>
             <em>Neural Processing Unit, Process In Memory Software Develop</em>
             <br>
