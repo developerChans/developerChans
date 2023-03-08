@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <li>
       <strong>NEOWINE (SoftWare Researcher) ---------- industrial technical personnel</strong>
       <br>
-      <em> Do : NPU, PIM, ONNX... Embedded Develop </em>
+      <em> Do : NPU, PIM, ONNX, Compiler(Onnx-Mlir)... Embedded Develop </em>
       <br>
       <em> Do : Java Spring, JPA, Flask </em>
       <br>
@@ -41,9 +41,19 @@ Here are some ideas to get you started:
         <br>
         <em>DKU 54th PLAY Student Council </em>
         <br>
-        <em>2022.03 ~ NOW</em>
+        <em>2022.02 ~ 2022.12</em>
         <br>
-    </li>           
+    </li>
+    <li>
+        <strong>Dankook Univ offical student council homepage Maintenance ---------- General(총괄) </strong>
+        <br>
+        <em>IT 관리국</em>
+        <br>
+        <em>DKU 55th DamDa Student Council </em>
+        <br>
+        <em>2023.01 ~ Now</em>
+        <br>
+    </li>      
     <li>
         <strong>Dankook Univ offical student Study Group D-Coding ---------- General </strong>
         <br>
@@ -111,19 +121,19 @@ Here are some ideas to get you started:
         <li>
             <strong>Dankook Univ offical student homepage Maintenance ---------- General </strong>
             <br>
-            <em>DKU 54th PLAY Student Council </em>
+            <em>DKU 55th DamDa Student Council </em>
             <br>
             <em>Java Spring, JPA</em>
             <br>
             <em>2023.01 ~ NOW</em>
             <br>
-            <em> https://www.dku54play.site </em>
+            <em> https://www.dkustu.com </em>
             <br>
         </li>
         <li>
             <strong>Dankook Univ Danvery Project ---------- General </strong>
             <br>
-            <em>DKU 54th PLAY Student Council homepage && Student Bus App 등 학생들을 위한 편의 앱 개발</em>
+            <em>DKU Dankook Student Council homepage && Student Bus App 등 학생들을 위한 편의 앱 개발</em>
             <br>
             <em>Flutter, Java Spring JPA</em>
             <br>
