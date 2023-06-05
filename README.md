@@ -123,7 +123,7 @@ Here are some ideas to get you started:
             <br>
             <em>DKU 55th DamDa Student Council </em>
             <br>
-            <em>Java Spring, JPA</em>
+            <em>React TypeScript, Java Spring, JPA, Cloud</em>
             <br>
             <em>2023.01 ~ NOW</em>
             <br>
@@ -131,13 +131,29 @@ Here are some ideas to get you started:
             <br>
         </li>
         <li>
+            <strong>Dankook Univ offical Danfesta homepage ---------- General </strong>
+            <br>
+            <em>DKU 55th DamDa Student Council Danfesta festival hompage & Ticketing </em>
+            <br>
+            <em>React TypeScript, Java Spring, JPA, Cloud</em>
+            <br>
+            <em>2023.04 ~ 2023.05</em>
+            <br>
+            <em> https://danfesta.dkustu.com </em>
+            <br>
+        </li>        
+        <li>
             <strong>Dankook Univ Danvery Project ---------- General </strong>
             <br>
             <em>DKU Dankook Student Council homepage && Student Bus App 등 학생들을 위한 편의 앱 개발</em>
             <br>
             <em>Flutter, Java Spring JPA</em>
             <br>
-            <em>2023.01 ~ NOW</em>
+            <em>2022.09 ~ NOW</em>
+            <br>
+            <em>Android Play Store: https://play.google.com/store/apps/details?id=com.vanillajaem.danvery </em>
+            <br>
+            <em>ios App Store: https://apps.apple.com/app/danvery/id6448884101 </em>
             <br>
         </li>                      
     </ul>
