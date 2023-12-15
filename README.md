@@ -27,12 +27,12 @@ Here are some ideas to get you started:
       <br>
       <em> Do : Java Spring, JPA, Flask </em>
       <br>
-      <em>2022.01 ~ NOW</em>
+      <em>2022.01 ~ 2023.12</em>
     </li>
     <li>
         <strong>HELLO TEAM(FOUNDED TEAM) ---------- TEAM LEADER(CEO) </strong>
         <br>
-        <em>2022.03 ~ NOW</em>
+        <em>2022.03 ~ 2022.12</em>
     </li>
     <li>
         <strong>Dankook Univ offical student council homepage Maintenance ---------- General(국장) </strong>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
         <br>
         <em>DKU 55th DamDa Student Council </em>
         <br>
-        <em>2023.01 ~ Now</em>
+        <em>2023.01 ~ 2023.12</em>
         <br>
     </li>      
     <li>
@@ -73,6 +73,7 @@ Here are some ideas to get you started:
       <strong>Dankook Univ. Subject ==> SoftWare ---------- take a leave of absence</strong>
       <br>
       <em>2019.03 ~ 2022.03</em>
+      <em>2024/03 ~ </em>
     </li>
     <li>
         <strong>Dankook Univ. Security Lab ---------- external researcher</strong>
@@ -115,7 +116,7 @@ Here are some ideas to get you started:
             <br>
             <em>Xilinx Vitis, C99</em>
             <br>
-            <em>2022.01 ~ NOW</em>
+            <em>2022.01 ~ 2023.12</em>
             <br>
         </li>        
         <li>
@@ -125,7 +126,7 @@ Here are some ideas to get you started:
             <br>
             <em>React TypeScript, Java Spring, JPA, Cloud</em>
             <br>
-            <em>2023.01 ~ NOW</em>
+            <em>2023.01 ~ 2023.12</em>
             <br>
             <em> https://www.dkustu.com </em>
             <br>
@@ -187,7 +188,7 @@ Here are some ideas to get you started:
             <br>
             <em>CONNX 내 NPU Operator 검증, 연동 및 컴파일러 개발 및 Demo 준비</em>
             <br>
-            <em>2022.01 ~ NOW</em>
+            <em>2022.01 ~ 2023.12</em>
         </li>                       
         <li>
             <strong>데이터 플로우 구조 기반 PIM의 실행 및 프로그래밍 모델 개발</strong>
@@ -196,7 +197,7 @@ Here are some ideas to get you started:
             <br>
             <em>ONNXRUNTIME NPU Operator 검증, 연동 및 컴파일러 개발</em>
             <br>
-            <em>2023.01 ~ NOW</em>
+            <em>2023.01 ~ 2023.12</em>
         </li>           
         etc
     </ul>
